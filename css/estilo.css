@@ -84,15 +84,20 @@ text-decoration: none;
     border: 1px solid #1f313c;
     border-radius: 12px;
 }
-.right{
+.right {
     float: right;
     position: relative;
-    top: -127px;
+    top: -50px;
+}
+    .right2{
+    float: right;
+    position: relative;
+    top: 10px;
 }
 .left{
     float: left;
     position: relative;
-    top: 80px;
+    top: 60px;
 }
 .contenedor-skill-a{
     margin-left: 20px;
